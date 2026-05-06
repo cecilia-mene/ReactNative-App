@@ -2,7 +2,7 @@
 
 Applicazione mobile cross-platform sviluppata in React Native per il corso di Mobile Computing presso l’Università degli Studi di Milano.  
 
-Il progetto implementa un sistema di food delivery basato su consegne rapide tramite drone, interfacciandosi con API REST fornite dal docente. :contentReference[oaicite:8]{index=8}
+Il progetto implementa un sistema di food delivery basato su consegne rapide tramite drone, interfacciandosi con API REST fornite dal docente.
 
 ---
 
